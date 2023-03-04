@@ -56,7 +56,7 @@ export default function SearchEmoji() {
   return (
     <div className="App">
 
-        <h1>Emoji Search</h1>
+        <h1>😎 Emoji Search 😎</h1>
        <input placeholder="Search by emoji title"
          type="text" 
          className="search" 
